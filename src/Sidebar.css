@@ -40,7 +40,7 @@
 
 .sidebar-search-container > .MuiSvgIcon-root {
     color: gray;
-    padding: 10px;
+    padding: 10px 0 10px 10px;
 }
 
 .sidebar-search-container > input {
@@ -48,6 +48,7 @@
     margin-left: 10px;
     overflow: hidden;
     background: none;
+    width: 100%;
 }
 
 .sidebar-chat{
